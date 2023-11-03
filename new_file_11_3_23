@@ -8,5 +8,6 @@ version_1
 
 merge
 =======
-4th commit added in 4th line for version 2 from master branch
+4th commit added in 4th line for version 2 from master branch  (2nd time conflict)
+ 2nd time conflict
 >>>>>>> version_2
