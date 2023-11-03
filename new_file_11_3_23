@@ -1,8 +1,12 @@
 File added thru VS code
 added 1 more line after stagng
 staging
+<<<<<<< HEAD
 version_1
 
 
 
 merge
+=======
+4th commit added in 4th line for version 2 from master branch
+>>>>>>> version_2
